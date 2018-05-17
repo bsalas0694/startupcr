@@ -1,0 +1,11 @@
+C:\Users\braya\Documents\Developments\startupcr\bin\Debug\netcoreapp2.0\startupcr.deps.json
+C:\Users\braya\Documents\Developments\startupcr\bin\Debug\netcoreapp2.0\startupcr.runtimeconfig.json
+C:\Users\braya\Documents\Developments\startupcr\bin\Debug\netcoreapp2.0\startupcr.runtimeconfig.dev.json
+C:\Users\braya\Documents\Developments\startupcr\bin\Debug\netcoreapp2.0\startupcr.dll
+C:\Users\braya\Documents\Developments\startupcr\bin\Debug\netcoreapp2.0\startupcr.pdb
+C:\Users\braya\Documents\Developments\startupcr\obj\Debug\netcoreapp2.0\startupcr.csprojAssemblyReference.cache
+C:\Users\braya\Documents\Developments\startupcr\obj\Debug\netcoreapp2.0\startupcr.csproj.CoreCompileInputs.cache
+C:\Users\braya\Documents\Developments\startupcr\obj\Debug\netcoreapp2.0\startupcr.AssemblyInfoInputs.cache
+C:\Users\braya\Documents\Developments\startupcr\obj\Debug\netcoreapp2.0\startupcr.AssemblyInfo.cs
+C:\Users\braya\Documents\Developments\startupcr\obj\Debug\netcoreapp2.0\startupcr.dll
+C:\Users\braya\Documents\Developments\startupcr\obj\Debug\netcoreapp2.0\startupcr.pdb
